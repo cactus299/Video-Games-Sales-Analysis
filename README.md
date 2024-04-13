@@ -1,11 +1,12 @@
-**Introduction of dataset**
+# Introduction of dataset
+
 The dataset is Video Games Sales data, spanning from 1980 to 2020 (there were insufficient data from 2017 to 2020). Being someone who loves video games even made me more curious and eager to unveil the mysteries of the dataset.
 
-**Data Cleaning, analysis and visualization**
+# Data Cleaning, analysis and visualization**
 
 Firstly, I checked for duplicates and found none. I got rid of missing values in some of the columns(Year and Platform). I went ahead to format the columns appropriately. I run a descriptive analysis on the data to get the summary statistics. I used pivot tables and pivot charts for my visualization. I also made use of slicers so I can filter my charts when I want to.
 
-**Business Insights, Decision-making and Conclusion**
+# Business Insights, Decision-making and Conclusion**
 
 North America had the highest total global sales of games with 4.3B (49%), contributing to almost half of the 8.8B total global sales of all games across all regions. Followed by Europe with 2.4B(27%).
 
